@@ -8,7 +8,7 @@ I build backend services and platforms using Go, Python, PostgreSQL, and Docker.
 ## Featured Project
 
 ### 3Default
-Engineering collaboration platform for 3D and CAD projects.
+Engineering collaboration platform for 3D and CAD projects. [Go to 3Default](https://www.3default.com/)
 
 Backend built with:
 - Go
